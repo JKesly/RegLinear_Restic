@@ -23,4 +23,4 @@ from sklearn.metrics foi importado r2_score
 pylab
 scipy.stats as stats   
 
-Autores e Colaboradores: Clara Raquel Santos e Jemyma Silva. Clara se responsabilizou pela pesquisa e escrita da parte bibliográfica do projeto, enquanto Jemyma gerou e interpretou os modelos.
+Autores e Colaboradores (Grupo 7): Clara Raquel Santos e Jemyma Silva. Clara se responsabilizou pela pesquisa e escrita da parte bibliográfica do projeto, enquanto Jemyma gerou e interpretou os modelos.
