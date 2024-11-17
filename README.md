@@ -6,7 +6,7 @@ Instalação: O projeto foi feito no notebook Jupyter, utilizando dados retirado
 
 Como Executar: Após feito o download da base de dados, basta seguir passo a passo o que foi feito no código, excecutando cada cédula do Jupyter de cima para baixo.
 
-Estrutura dos Arquivos:  A pasta /src contém o código-fonte, enquanto .pdf contém o relatório.
+Estrutura dos Arquivos:  A pasta ipynb contém o código-fonte, enquanto .pdf contém o relatório.
 
 Tecnologias Utilizadas: Python foi a linguagem usada, e as bibliotecas foram:
 pandas as pd 
